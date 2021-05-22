@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Değişkenler
+namespace VariablesPractice
 {
     class Program
     {
